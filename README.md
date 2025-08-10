@@ -9,6 +9,7 @@
     <th>HTTP 완벽 가이드</th>
     <th>객체지향의 사실과 오해</th>
     <th><a href="https://github.com/mingdodev/test-driven-development">테스트 주도 개발 시작하기</a></th>
+    <th>대규모 시스템 설계 기초</th>
   </tr>
   <tr>
       <td>
@@ -19,6 +20,9 @@
     </td>
     <td>
       <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788980783052.jpg" alt="테스트 주도 개발 시작하기" style="width:170px;">
+    </td>
+    <td>
+      <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966263158.jpg" alt="대규모 시스템 설게 기초" style="width:175px;">
     </td>
   </tr>
 <!--   <tr>
