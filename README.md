@@ -25,6 +25,14 @@
       <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966263158.jpg" alt="대규모 시스템 설게 기초" style="width:175px;">
     </td>
   </tr>
+  <tr>
+  <th><a href="https://github.com/mingdodev/gdgoc-kotlin-in-action">Kotlin in Action: 2/e</a></th>
+  </tr>
+  <tr>
+      <td>
+        <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791161759692.jpg" alt="Kotlin in Action" style="width:170px;">
+      </td>
+  </tr>
 <!--   <tr>
     <td>desc</td>
     <td>desc</td>
