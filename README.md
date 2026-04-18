@@ -7,7 +7,7 @@
 <table>
   <tr>
     <th>HTTP 완벽 가이드</th>
-    <th>객체지향의 사실과 오해</th>
+    <th>리눅스 커널 심층 분석</th>
     <th><a href="https://github.com/mingdodev/test-driven-development">테스트 주도 개발 시작하기</a></th>
     <th>대규모 시스템 설계 기초</th>
   </tr>
@@ -16,7 +16,7 @@
         <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966261208.jpg" alt="HTTP 완벽 가이드" style="width:170px;">
       </td>
     <td>
-      <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788998139766.jpg" alt="객체지향의 사실과 오해" style="width:170px;">
+      <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788960773318.jpg" alt="리눅스 커널 심층 분석" style="width:170px;">
     </td>
     <td>
       <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788980783052.jpg" alt="테스트 주도 개발 시작하기" style="width:170px;">
